@@ -1,0 +1,2 @@
+# wayrightmed
+site for content 
